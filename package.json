@@ -1,0 +1,19 @@
+{
+  "name": "take-home-exercise",
+  "version": "1.0.0",
+  "description": "cypress e2e automation, test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}

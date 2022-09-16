@@ -1,0 +1,6 @@
+{
+    "sourceLanguage": "German",
+    "translationLanguage": "English",
+    "initialText": "Hallo, wie geht es dir",
+    "expectedResult": "Hi how are you" 
+}
